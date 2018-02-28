@@ -1,0 +1,17 @@
+{
+  "name": "javascript-classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joozybrain/javascript-classes",
+  "author": "Benjamin Ang <benjamin.ang@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
+
+  "scripts": {
+    "test": "jest",     
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+}
+}
