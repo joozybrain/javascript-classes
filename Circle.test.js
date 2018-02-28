@@ -31,7 +31,7 @@ it("Radius 3 should be 28.3 Area", function() {
     expect((aCircle).area()).toEqual(28.3);
 });
 
-it("Radius 3 should be 18.9 Perimeter", function() {
+it("Radius 3 should be 18.8 Perimeter", function() {
     var aCircle = new Circle(3);
-    expect((aCircle).perimeter()).toEqual(18.9);
+    expect((aCircle).perimeter()).toEqual(18.8);
 });
