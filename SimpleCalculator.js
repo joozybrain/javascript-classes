@@ -43,4 +43,4 @@ class SimpleCalculator {
 
 var calculator = new SimpleCalculator();
 
-console.log(calculator.add(2).add(2));
+console.log(calculator.add(2).substract(1).multiply(100).divide(2));
